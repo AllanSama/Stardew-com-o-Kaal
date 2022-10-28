@@ -1,0 +1,13 @@
+{
+    "Name": "Adopt Leo Proposal Item",
+    "Author": "MurrTheCat",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "3.2.0",
+    "Description": "Adds Adopt Leo proposal item.",
+    "UniqueID": "MurrTheCat.LeoRoommateItem.JA",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": ["Nexus:???"]
+}

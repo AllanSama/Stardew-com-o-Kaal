@@ -1,0 +1,88 @@
+{
+  "Format": "1.28.0",
+
+  "Changes": [
+
+    //Dialogue
+    {
+      "LogName": "Blank Dialogue",
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueLeoMainland, Characters/Dialogue/MarriageDialogueLeoMainlandRoommate, Characters/Dialogue/MarriageDialogueLeo, Characters/Dialogue/MarriageDialogueLeoRoommate",
+      "FromFile": "assets/Roommate/RoommateBlank.json"
+    },
+
+    {
+      "Action": "Include",
+      "FromFile": "assets/Roommate/HousemateDialogue.json"
+    },
+
+    //Schedule
+    {
+      "LogName": "Roommate Schedule Blank",
+      "Action": "Load",
+      "Target": "Characters/schedules/Leo, Characters/schedules/LeoMainland",
+      "FromFile": "assets/Roommate/RoommateBlank.json",
+      "When": {
+        "Roommate": "Leo"
+      }
+    },
+
+    {
+      "Action": "Include",
+      "FromFile": "assets/Roommate/RoommateSchedule.json",
+      "When": {
+        "Roommate": "Leo"
+      }
+    },
+
+//tilesheets
+  {
+  "Action": "Load",
+  "Target": "Maps/MurrTheCat_CustomAssets",
+  "FromFile": "assets/Maps/MurrTheCat_CustomAssets.png",
+   },
+    {
+"LogName":"MapStringsEdit",
+"Action":"EditData",
+"Target":"Strings/StringsFromMaps",
+"Entries":{
+"Parrot.Room":"{{i18n:Parrot.Room}}",
+"Ball.Room":"{{i18n:Ball.Room}}",
+"SkateBoard.Room":"{{i18n:SkateBoard.Room}}",
+"Vase.Room":"{{i18n:Vase.Room}}",
+"FlowerBed.1":"{{i18n:FlowerBed.1}}",
+"FlowerBed.2":"{{i18n:FlowerBed.2}}",
+}
+},
+//Patio
+{
+"LogName":"LeosPatio",
+"Action":"EditData",
+"Target":"Data/SpousePatios",
+"Entries":{
+"Leo":"MurrTheCat.Leo_LeoPatio/0/45 45 45 45 45 45 45 45 45 45 45 46 46 46 46 46 46 46 46 46 46 46/0 0",
+}
+},
+{
+"LogName":"Load patio",
+"Action":"Load",
+"Target":"Maps/MurrTheCat.Leo_LeoPatio",
+"FromFile":"assets/Maps/LeoPatio.tbin"
+},
+    //Spouse room
+    {
+      "LogName": "Loads Leo's Spouse Room",
+      "Action": "Load",
+      "Target": "Maps/MurrTheCat_Leo_SpouseRoom",
+      "FromFile": "assets/Maps/SpouseRoomLeo.tbin"
+    },
+    {
+      "LogName": "Adds Leo's Spouse Room",
+      "Action": "EditData",
+      "Target": "Data/SpouseRooms",
+      "Entries": {
+        "Leo": "MurrTheCat_Leo_SpouseRoom/0"
+      }
+    }
+  ]
+}

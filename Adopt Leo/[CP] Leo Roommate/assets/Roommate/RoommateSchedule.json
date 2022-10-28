@@ -1,0 +1,23 @@
+{
+"Changes": [
+
+	{
+		"LogName": "Leo Adoption Schedule Schedule",
+		"Action": "EditData",
+		"Target": "Characters/schedules/Leo, Characters/schedules/LeoMainland",
+		"Entries": {
+
+			//Marriage Schedule
+			"marriage_Mon": "610 Mountain 30 9 3/930 Mountain 44 18 1/1400 Mountain 30 9 3/1800 BusStop -1 23 0",
+			"marriage_Tue": "800 ArchaeologyHouse 18 12 0 leo_sit_up \"Strings\\schedules\\Leo:school\"/1400 Town 91 104 2/1620 Mountain 30 9 3/1800 BusStop -1 23 0",
+                  "marriage_Wed": "GOTO marriage_Tue",
+			"marriage_Thu": "900 SamHouse 2 8 0/1100 SamHouse 2 16 2/1340 Beach 46 24 2/1800 BusStop -1 23 0",
+                  "marriage_Fri": "GOTO marriage_Tue",
+                  "marriage_Sun": "800 IslandHut 7 7 0/1030 IslandSouth 38 31 2/1330 IslandEast 7 44 2/1700 IslandNorth 53 71 2/1800 BusStop -1 23 0",
+
+					},
+	},
+
+]
+}
+  

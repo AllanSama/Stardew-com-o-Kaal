@@ -1,0 +1,233 @@
+{
+  "Changes": [
+    {
+      "LogName": "Leo Adoption Dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLeoMainland, Characters/Dialogue/MarriageDialogueLeoMainlandRoommate, Characters/Dialogue/MarriageDialogueLeo, Characters/Dialogue/MarriageDialogueLeoRoommate",
+      "Entries": {
+        //Spring
+        "spring_1": "{{i18n:Leo.MarriageDialogue.spring_1}}",
+        "spring_2": "{{i18n:Leo.MarriageDialogue.spring_2}}",
+        "spring_3": "{{i18n:Leo.MarriageDialogue.spring_3}}",
+  	  "spring_4": "{{i18n:Leo.MarriageDialogue.spring_4}}",
+        "spring_5": "{{i18n:Leo.MarriageDialogue.spring_5}}",
+        "spring_6": "{{i18n:Leo.MarriageDialogue.spring_6}}",
+        "spring_7": "{{i18n:Leo.MarriageDialogue.spring_7}}",
+        "spring_8": "{{i18n:Leo.MarriageDialogue.spring_8}}",
+        "spring_9": "{{i18n:Leo.MarriageDialogue.spring_9}}",
+        "spring_10": "{{i18n:Leo.MarriageDialogue.spring_10}}",
+        "spring_11": "{{i18n:Leo.MarriageDialogue.spring_11}}",
+        "spring_12": "{{i18n:Leo.MarriageDialogue.spring_12}}",
+        "spring_13": "{{i18n:Leo.MarriageDialogue.spring_13}}",
+        "spring_14": "{{i18n:Leo.MarriageDialogue.spring_14}}",
+        "spring_15": "{{i18n:Leo.MarriageDialogue.spring_15}}",
+        "spring_16": "{{i18n:Leo.MarriageDialogue.spring_16}}",
+        "spring_17": "{{i18n:Leo.MarriageDialogue.spring_17}}",
+        "spring_18": "{{i18n:Leo.MarriageDialogue.spring_18}}",
+        "spring_19": "{{i18n:Leo.MarriageDialogue.spring_19}}",
+        "spring_20": "{{i18n:Leo.MarriageDialogue.spring_20}}",
+        "spring_21": "{{i18n:Leo.MarriageDialogue.spring_21}}",
+        "spring_22": "{{i18n:Leo.MarriageDialogue.spring_22}}",
+        "spring_24": "{{i18n:Leo.MarriageDialogue.spring_23}}",
+        "spring_24": "{{i18n:Leo.MarriageDialogue.spring_24}}",
+        "spring_25": "{{i18n:Leo.MarriageDialogue.spring_25}}",
+        "spring_26": "{{i18n:Leo.MarriageDialogue.spring_26}}",
+        "spring_27": "{{i18n:Leo.MarriageDialogue.spring_27}}",
+        "spring_28": "{{i18n:Leo.MarriageDialogue.spring_28}}",
+
+        //Summer
+        "summer_1": "{{i18n:Leo.MarriageDialogue.summer_1}}",
+        "summer_2": "{{i18n:Leo.MarriageDialogue.summer_2}}",
+        "summer_3": "{{i18n:Leo.MarriageDialogue.summer_3}}",
+        "summer_4": "{{i18n:Leo.MarriageDialogue.summer_4}}",
+        "summer_5": "{{i18n:Leo.MarriageDialogue.summer_5}}",
+        "summer_6": "{{i18n:Leo.MarriageDialogue.summer_6}}",
+        "summer_7": "{{i18n:Leo.MarriageDialogue.summer_7}}",
+        "summer_8": "{{i18n:Leo.MarriageDialogue.summer_8}}",
+        "summer_9": "{{i18n:Leo.MarriageDialogue.summer_9}}",
+        "summer_10": "{{i18n:Leo.MarriageDialogue.summer_10}}",
+        "summer_11": "{{i18n:Leo.MarriageDialogue.summer_11}}",
+        "summer_12": "{{i18n:Leo.MarriageDialogue.summer_12}}",
+        "summer_13": "{{i18n:Leo.MarriageDialogue.summer_13}}",
+        "summer_14": "{{i18n:Leo.MarriageDialogue.summer_14}}",
+        "summer_15": "{{i18n:Leo.MarriageDialogue.summer_15}}",
+        "summer_16": "{{i18n:Leo.MarriageDialogue.summer_16}}",
+        "summer_17": "{{i18n:Leo.MarriageDialogue.summer_17}}",
+        "summer_18": "{{i18n:Leo.MarriageDialogue.summer_18}}",
+        "summer_19": "{{i18n:Leo.MarriageDialogue.summer_19}}",
+        "summer_20": "{{i18n:Leo.MarriageDialogue.summer_20}}",
+        "summer_21": "{{i18n:Leo.MarriageDialogue.summer_21}}",
+        "summer_22": "{{i18n:Leo.MarriageDialogue.summer_22}}",
+        "summer_23": "{{i18n:Leo.MarriageDialogue.summer_23}}",
+        "summer_24": "{{i18n:Leo.MarriageDialogue.summer_24}}",
+        "summer_25": "{{i18n:Leo.MarriageDialogue.summer_25}}",
+        "summer_26": "{{i18n:Leo.MarriageDialogue.summer_26}}",
+        "summer_27": "{{i18n:Leo.MarriageDialogue.summer_27}}",
+        "summer_28": "{{i18n:Leo.MarriageDialogue.summer_28}}",
+
+        //Fall
+        "fall_1": "{{i18n:Leo.MarriageDialogue.fall_1}}",
+        "fall_2": "{{i18n:Leo.MarriageDialogue.fall_2}}",
+        "fall_3": "{{i18n:Leo.MarriageDialogue.fall_3}}",
+        "fall_4": "{{i18n:Leo.MarriageDialogue.fall_4}}",
+        "fall_5": "{{i18n:Leo.MarriageDialogue.fall_5}}",
+        "fall_6": "{{i18n:Leo.MarriageDialogue.fall_6}}",
+        "fall_7": "{{i18n:Leo.MarriageDialogue.fall_7}}",
+        "fall_8": "{{i18n:Leo.MarriageDialogue.fall_8}}",
+        "fall_9": "{{i18n:Leo.MarriageDialogue.fall_9}}",
+        "fall_10": "{{i18n:Leo.MarriageDialogue.fall_10}}",
+        "fall_11": "{{i18n:Leo.MarriageDialogue.fall_11}}",
+        "fall_12": "{{i18n:Leo.MarriageDialogue.fall_12}}",
+        "fall_13": "{{i18n:Leo.MarriageDialogue.fall_13}}",
+        "fall_14": "{{i18n:Leo.MarriageDialogue.fall_14}}",
+        "fall_15": "{{i18n:Leo.MarriageDialogue.fall_15}}",
+        "fall_16": "{{i18n:Leo.MarriageDialogue.fall_16}}",
+        "fall_17": "{{i18n:Leo.MarriageDialogue.fall_17}}",
+        "fall_18": "{{i18n:Leo.MarriageDialogue.fall_18}}",
+        "fall_19": "{{i18n:Leo.MarriageDialogue.fall_19}}",
+        "fall_20": "{{i18n:Leo.MarriageDialogue.fall_20}}",
+        "fall_21": "{{i18n:Leo.MarriageDialogue.fall_21}}",
+        "fall_22": "{{i18n:Leo.MarriageDialogue.fall_22}}",
+        "fall_23": "{{i18n:Leo.MarriageDialogue.fall_23}}",
+        "fall_24": "{{i18n:Leo.MarriageDialogue.fall_24}}",
+        "fall_25": "{{i18n:Leo.MarriageDialogue.fall_25}}",
+        "fall_26": "{{i18n:Leo.MarriageDialogue.fall_26}}",
+        "fall_27": "{{i18n:Leo.MarriageDialogue.fall_27}}",
+        "fall_28": "{{i18n:Leo.MarriageDialogue.fall_28}}",
+
+        //Winter
+        "winter_1": "{{i18n:Leo.MarriageDialogue.winter_1}}",
+        "winter_2": "{{i18n:Leo.MarriageDialogue.winter_2}}",
+        "winter_3": "{{i18n:Leo.MarriageDialogue.winter_3}}",
+        "winter_4": "{{i18n:Leo.MarriageDialogue.winter_4}}",
+        "winter_5": "{{i18n:Leo.MarriageDialogue.winter_5}}",
+        "winter_6": "{{i18n:Leo.MarriageDialogue.winter_6}}",
+        "winter_7": "{{i18n:Leo.MarriageDialogue.winter_7}}",
+        "winter_8": "{{i18n:Leo.MarriageDialogue.winter_8}}",
+        "winter_9": "{{i18n:Leo.MarriageDialogue.winter_9}}",
+        "winter_10": "{{i18n:Leo.MarriageDialogue.winter_10}}",
+        "winter_11": "{{i18n:Leo.MarriageDialogue.winter_11}}",
+        "winter_12": "{{i18n:Leo.MarriageDialogue.winter_12}}",
+        "winter_13": "{{i18n:Leo.MarriageDialogue.winter_13}}",
+        "winter_14": "{{i18n:Leo.MarriageDialogue.winter_14}}",
+        "winter_15": "{{i18n:Leo.MarriageDialogue.winter_15}}",
+        "winter_16": "{{i18n:Leo.MarriageDialogue.winter_16}}",
+        "winter_17": "{{i18n:Leo.MarriageDialogue.winter_17}}",
+        "winter_18": "{{i18n:Leo.MarriageDialogue.winter_18}}",
+        "winter_19": "{{i18n:Leo.MarriageDialogue.winter_19}}",
+        "winter_20": "{{i18n:Leo.MarriageDialogue.winter_20}}",
+        "winter_21": "{{i18n:Leo.MarriageDialogue.winter_21}}",
+        "winter_22": "{{i18n:Leo.MarriageDialogue.winter_22}}",
+        "winter_23": "{{i18n:Leo.MarriageDialogue.winter_23}}",
+        "winter_24": "{{i18n:Leo.MarriageDialogue.winter_24}}",
+        "winter_25": "{{i18n:Leo.MarriageDialogue.winter_25}}",
+        "winter_26": "{{i18n:Leo.MarriageDialogue.winter_26}}",
+        "winter_27": "{{i18n:Leo.MarriageDialogue.winter_27}}",
+        "winter_28": "{{i18n:Leo.MarriageDialogue.winter_28}}",
+
+        //Room
+        "spouseRoom_Leo": "{{i18n:Leo.MarriageDialogue.spouseRoom_Leo}}",
+
+        //Patio
+        "patio_Leo": "{{i18n:Leo.MarriageDialogue.patio_Leo}}",
+
+        //Rainy Day
+        "Rainy_Day_0": "{{i18n:Leo.MarriageDialogue.Rainy_Day_0}}",
+        "Rainy_Day_1": "{{i18n:Leo.MarriageDialogue.Rainy_Day_1}}",
+        "Rainy_Day_2": "{{i18n:Leo.MarriageDialogue.Rainy_Day_2}}",
+        "Rainy_Day_3": "{{i18n:Leo.MarriageDialogue.Rainy_Day_3}}",
+        "Rainy_Day_4": "{{i18n:Leo.MarriageDialogue.Rainy_Day_4}}",
+
+        //Rainy Night
+        "Rainy_Night_0": "{{i18n:Leo.MarriageDialogue.Rainy_Night_0}}",
+        "Rainy_Night_1": "{{i18n:Leo.MarriageDialogue.Rainy_Night_1}}",
+        "Rainy_Night_2": "{{i18n:Leo.MarriageDialogue.Rainy_Night_2}}",
+        "Rainy_Night_3": "{{i18n:Leo.MarriageDialogue.Rainy_Night_3}}",
+        "Rainy_Night_4": "{{i18n:Leo.MarriageDialogue.Rainy_Night_4}}",
+        "Rainy_Night_5": "{{i18n:Leo.MarriageDialogue.Rainy_Night_5}}",
+        "Rainy_Night_Leo": "{{i18n:Leo.MarriageDialogue.Rainy_Night_Leo}}",
+
+        //Indoor Day
+        "Indoor_Day_0": "{{i18n:Leo.MarriageDialogue.Indoor_Day_0}}",
+        "Indoor_Day_1": "{{i18n:Leo.MarriageDialogue.Indoor_Day_1}}",
+        "Indoor_Day_2": "{{i18n:Leo.MarriageDialogue.Indoor_Day_2}}",
+        "Indoor_Day_3": "{{i18n:Leo.MarriageDialogue.Indoor_Day_3}}",
+        "Indoor_Day_4": "{{i18n:Leo.MarriageDialogue.Indoor_Day_4}}",
+        "Indoor_Day_Leo": "{{i18n:Leo.MarriageDialogue.Indoor_Day_Leo}}",
+
+        //Indoor Night
+        "Indoor_Night_0": "{{i18n:Leo.MarriageDialogue.Indoor_Night_0}}",
+        "Indoor_Night_1": "{{i18n:Leo.MarriageDialogue.Indoor_Night_1}}",
+        "Indoor_Night_2": "{{i18n:Leo.MarriageDialogue.Indoor_Night_2}}",
+        "Indoor_Night_3": "{{i18n:Leo.MarriageDialogue.Indoor_Night_3}}",
+        "Indoor_Night_4": "{{i18n:Leo.MarriageDialogue.Indoor_Night_4}}",
+        "Indoor_Night_Leo": "{{i18n:Leo.MarriageDialogue.Indoor_Night_Leo}}",
+
+        //Outdoors
+        "Outdoor_Leo": "{{i18n:Leo.MarriageDialogue.Outdoor_Leo}}",
+        "Outdoor_0": "{{i18n:Leo.MarriageDialogue.Outdoor_0}}",
+        "Outdoor_1": "{{i18n:Leo.MarriageDialogue.Outdoor_1}}",
+        "Outdoor_2": "{{i18n:Leo.MarriageDialogue.Outdoor_2}}",
+        "Outdoor_3": "{{i18n:Leo.MarriageDialogue.Outdoor_3}}",
+        "Outdoor_4": "{{i18n:Leo.MarriageDialogue.Outdoor_4}}",
+
+        //Leaving
+        "funLeave_Leo": "{{i18n:Leo.MarriageDialogue.funLeave_Leo}}",
+
+        //Returning
+        "funReturn_Leo": "{{i18n:Leo.MarriageDialogue.funReturn_Leo}}",
+
+        //One kid
+        "OneKid_0": "{{i18n:Leo.MarriageDialogue.OneKid_0}}",
+        "OneKid_1": "{{i18n:Leo.MarriageDialogue.OneKid_1}}",
+        "OneKid_2": "{{i18n:Leo.MarriageDialogue.OneKid_2}}",
+        "OneKid_3": "{{i18n:Leo.MarriageDialogue.OneKid_3}}",
+        "OneKid_4": "{{i18n:Leo.MarriageDialogue.OneKid_4}}",
+
+        //Two kids
+        "TwoKids_0": "{{i18n:Leo.MarriageDialogue.TwoKids_0}}",
+        "TwoKids_1": "{{i18n:Leo.MarriageDialogue.TwoKids_1}}",
+        "TwoKids_2": "{{i18n:Leo.MarriageDialogue.TwoKids_2}}",
+        "TwoKids_3": "{{i18n:Leo.MarriageDialogue.TwoKids_3}}",
+        "TwoKids_4": "{{i18n:Leo.MarriageDialogue.TwoKids_4}}",
+
+        //Relationship-dependent
+        //Good
+        "Good_0": "{{i18n:Leo.MarriageDialogue.Good_0}}",
+        "Good_1": "{{i18n:Leo.MarriageDialogue.Good_1}}",
+        "Good_2": "{{i18n:Leo.MarriageDialogue.Good_2}}",
+        "Good_3": "{{i18n:Leo.MarriageDialogue.Good_3}}",
+        "Good_4": "{{i18n:Leo.MarriageDialogue.Good_4}}",
+        "Good_5": "{{i18n:Leo.MarriageDialogue.Good_5}}",
+        "Good_6": "{{i18n:Leo.MarriageDialogue.Good_6}}",
+        "Good_7": "{{i18n:Leo.MarriageDialogue.Good_7}}",
+        "Good_8": "{{i18n:Leo.MarriageDialogue.Good_8}}",
+        "Good_9": "{{i18n:Leo.MarriageDialogue.Good_9}}",
+
+        //Neutral
+        "Neutral_0": "{{i18n:Leo.MarriageDialogue.Neutral_0}}",
+        "Neutral_1": "{{i18n:Leo.MarriageDialogue.Neutral_1}}",
+        "Neutral_2": "{{i18n:Leo.MarriageDialogue.Neutral_2}}",
+        "Neutral_3": "{{i18n:Leo.MarriageDialogue.Neutral_3}}",
+        "Neutral_4": "{{i18n:Leo.MarriageDialogue.Neutral_4}}",
+        "Neutral_5": "{{i18n:Leo.MarriageDialogue.Neutral_5}}",
+        "Neutral_6": "{{i18n:Leo.MarriageDialogue.Neutral_6}}",
+        "Neutral_7": "{{i18n:Leo.MarriageDialogue.Neutral_7}}",
+        "Neutral_8": "{{i18n:Leo.MarriageDialogue.Neutral_8}}",
+        "Neutral_9": "{{i18n:Leo.MarriageDialogue.Neutral_9}}",
+
+        //Bad
+        "Bad_0": "{{i18n:Leo.MarriageDialogue.Bad_0}}",
+        "Bad_1": "{{i18n:Leo.MarriageDialogue.Bad_1}}",
+        "Bad_2": "{{i18n:Leo.MarriageDialogue.Bad_2}}",
+        "Bad_3": "{{i18n:Leo.MarriageDialogue.Bad_3}}",
+        "Bad_4": "{{i18n:Leo.MarriageDialogue.Bad_4}}",
+        "Bad_5": "{{i18n:Leo.MarriageDialogue.Bad_5}}",
+        "Bad_6": "{{i18n:Leo.MarriageDialogue.Bad_6}}",
+        "Bad_7": "{{i18n:Leo.MarriageDialogue.Bad_7}}",
+        "Bad_8": "{{i18n:Leo.MarriageDialogue.Bad_8}}",
+        "Bad_9": "{{i18n:Leo.MarriageDialogue.Bad_9}}"
+      }
+    }
+  ]
+}

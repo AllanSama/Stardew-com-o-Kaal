@@ -1,0 +1,11 @@
+{
+  "Name": "Adopt Leo",
+  "Author": "MurrTheCat",
+  "Version": "1.0.0",
+  "Description": "Adds the ability to adopt Leo in Stardew Valley.",
+  "UniqueID": "MurrTheCat.Adoptleo",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
